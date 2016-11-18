@@ -4,7 +4,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 /**
- * Created by wzp on 15/11/22.
+ * Created by xiaona on 15/11/22.
  */
 @SpringBootApplication
 @ComponentScan(basePackages = "com.zra.service.business")
