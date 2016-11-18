@@ -6,7 +6,7 @@ import com.zra.service.business.entity.Business;
 import java.util.List;
 
 /**
- * Created by wzp on 16/11/4.
+ * Created by xiaona on 16/11/4.
  */
 public interface BusinessManager {
 
