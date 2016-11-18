@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 import java.io.Serializable;
 
 /**
- * Created by wzp on 16/11/4.
+ * Created by xiaona on 16/11/4.
  */
 @Data
 @NoArgsConstructor
