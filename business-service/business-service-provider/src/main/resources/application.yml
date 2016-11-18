@@ -6,6 +6,6 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/ziroom
     username: root
-    password: wzp
+    password: lxn
     driver-class-name: com.mysql.jdbc.Driver
 
