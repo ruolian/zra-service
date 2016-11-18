@@ -1,7 +1,7 @@
 package com.zra.service.business.enums;
 
 /**
- * Created by wzp on 16/11/4.
+ * Created by xiaona on 16/11/4.
  */
 public enum BusinessType {
   USER(1), IP(2);
